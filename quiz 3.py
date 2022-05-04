@@ -23,9 +23,9 @@ print(file)
 # task 3
 # spoonacular.com-იდან API-ს მეშვეობით მომაქვს იმ სამი პიცის რეცეპტი, რომელთა ცხიმის შემცველობა არის 25გ
 key = '15d3f9db070e4b7980dd731441e1b04f'
-query = 'pizza'
-maxFat = 25
-number = 1
+query = input('enter dishes:')
+maxFat = float(input('enter maxFat:'))
+number = int(input('enter number of dishes:'))
 payload = {'apiKey': key, 'query': query, 'maxFat': maxFat, 'number': number}
 r = requests.get(f'https://api.spoonacular.com/recipes/complexSearch', params=payload)
 res = json.loads(r.text)
