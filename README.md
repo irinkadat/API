@@ -10,7 +10,7 @@ Code fragment, that allows you to get detail information about the dish , that y
 
 
 კოდის ფრაგმენტი, რომელიც იყენებს spoonacular API-ს და მომხმარებელს აძლევს საშუალებას გაიგოს დეტალური ინფორმაცია მისთვის სასურველ კერძზე, უფრო კონკრეტულად, მომხმარებელი ნახავს კერძის შემადგენლობას (ინგრედიენტებს) და ასევე კერძის ვიზუალურ მხარეს(ფოტოს url-ს). 
-ასევე კოდში დამატებით მაქვს გამოყენებული spoonacular.com-ის wrapper. wrapper-ის მეშვეობით მოგვაქვს კერძის ანოტაცია, კერძის ინგრედიენტები და ასევე შემთხვევითი ხუმრობა საჭმელებზე.
+კოდში დამატებით მაქვს გამოყენებული spoonacular.com-ის wrapper. wrapper-ის მეშვეობით მოგვაქვს კერძის ანოტაცია, კერძის ინგრედიენტები და ასევე შემთხვევითი ხუმრობა საჭმელებზე.
 ## Instructions for use / გამოყენების ინსტრუქცია
 user must enter food name and the code will give him/her detail information about his/her chosen dish. 💛
 
