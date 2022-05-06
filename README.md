@@ -16,7 +16,7 @@ user must enter food name and the code will give him/her detail information abou
 მომხმარებელმა უნდა შეიყვანოს საკვების სახელი და კოდის მეშვეობით იგი იხილავს დეტალურ ინფორმაციას არჩეული კერძის შესახებ. 💛
 
 ## Used Resources
-- Spoonacular api Spoonacular api![image](https://user-images.githubusercontent.com/93433280/167072917-2016af3c-26fe-4e60-ac02-34cecd49e1f7.png)
+- Spoonacular api [link](https://spoonacular.com/food-api/docs#Search-Recipes-Complex)
 - Json Module
 - Requests module
 - Sqlite
