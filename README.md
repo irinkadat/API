@@ -1,4 +1,5 @@
-# API
+# spoonacular API
+
 ## Author
 
 - [@irinkadat](https://github.com/irinkadat)
